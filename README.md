@@ -173,11 +173,34 @@ Honk Menu v1
 
   ## Anything now on WAS part of DevGoose. (Changelog history of mod)
 
+  
+* v3.2.1
+> Fixed blink controller support.
+
+* v3.2
+> Removed Pause from the old menu
+
+> Moved Teleporting of Geese from Goose Modifier to Teleport
+
+> Added Bigger and Smaller sizes of Goose and NPCs to Goose Modifier Menu
+
+> Updated list to include everything apart from rear pub tomatoes 3 umbrellas and teacup.
+
+> Added Experimental Mini Game - Find the Bell. (Very early access - bell will get stuck or out of reach sometimes!)
+
+> The golden bell will teleport to a random spot on the map. You will have to find where the golden bell is and bring it back home.
+
+> Teleport the Bell: CTRL + 6
+
+> (Only use this if you cannot find the golden bell, its stuck or out of reach)
+
+> Teleport Goose to Bell: CTRL + 8
+
+
 * v0.3.1
 > Fixed no clip not working with controller
 
 > Fixed the blink spawning in the 3 speedrun items.
-
 
 * v0.3
 > Changing the name a finale time from, GooseTools to Dev Goose as there is another external program Called GooseTools and I don't want confliction between the two.
