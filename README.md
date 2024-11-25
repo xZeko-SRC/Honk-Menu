@@ -38,8 +38,20 @@ And many more!
 Go to [Melonloader's](https://melonwiki.xyz/#/?id=requirements) Website.
 
 Under the Automated Installation section;
+> Updated Melonloader.exe 11-25-24
+* Click Download Latest for Windows
+* Once downloaded run the Melonloader.exe
+* It should come up with Untitled Goose Game, click this
+* Then navigate to \Steam\steamapps\common\Untitled Goose Game there should be a Mods folder
 
-* Download MelonLoader.Installer.exe
+Now you will need to download the ```Honk Menu.dll```
+
+* You should see a Mods folder in the games directory
+* Place the ```Honk Menu.dll``` into the Mods folder ```C:\Program Files (x86)\Steam\steamapps\common\Untitled Goose Game\Mods```
+* Start the game and enjoy!
+* The Menu will be shown when you have honked as the Goose
+
+> If you have an old Melonloader file then Run this
 * Run MelonLoader.Installer.exe
 * Click the SELECT button
 * Select and Open the Untitled Goose Game EXE in your Game's Installation Folder. (C:\Program Files (x86)\Steam\steamapps\common\Untitled Goose Game)
